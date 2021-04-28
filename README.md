@@ -12,20 +12,18 @@ Neyse Botun İçeriği;
 * Ses Mic Log (Basit)
 * Rol Log (Basit)
 * Giriş Çıkış (Basit)
-
 ------------------
-Streamer Log 
-Nickname Log
-Discord Username Log
-Mesaj edit Delete Log
-Avatar Log 
-<h3 align="left">Avatar Log</h3>
-<h3 align="left">Discord Username Log</h3>
+* Streamer Log 
+* Nickname Log
+* Discord Username Log
+* Mesaj edit Delete Log
+* Avatar Log 
+* Kullanıcı UserName Etiket Log (Discriminator) 
 ---------------
-Rol Log (Gelişmiş)
-Ses Log (Gelişmiş)
-Ses Mic Log (Gelişmiş)
-Giriş Çıkış Log (Gelişmiş)
+* Rol Log (Gelişmiş)
+* Ses Log (Gelişmiş)
+* Ses Mic Log (Gelişmiş)
+* Giriş Çıkış Log (Gelişmiş)
 
 //ve içeride bir süpriz daha var ;) 
 
