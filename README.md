@@ -19,7 +19,8 @@ Nickname Log
 Discord Username Log
 Mesaj edit Delete Log
 Avatar Log 
-
+<h3 align="left">Avatar Log</h3>
+<h3 align="left">Discord Username Log</h3>
 ---------------
 Rol Log (Gelişmiş)
 Ses Log (Gelişmiş)
