@@ -8,10 +8,10 @@ Biliyorumki Bu botla beraber diğer botlarımı paylaştıgımda Herkes Botcu ol
 
 Neyse Botun İçeriği;
 
-Ses Log (Basit)
-Ses Mic Log (Basit)
-Rol Log (Basit)
-Giriş Çıkış (Basit)
+* Ses Log (Basit)
+* Ses Mic Log (Basit)
+* Rol Log (Basit)
+* Giriş Çıkış (Basit)
 
 ------------------
 Streamer Log 
