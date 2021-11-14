@@ -1,33 +1,11 @@
-# İleri seviye Log Botum
-Öncelikle Herkese Merhabalar, Önceden bot yaptıgım sunucularda kullandıgım Log Tutan Botumu sizlere paylaşıyorum..
+# Brita V12 Boş Altyapı
 
-Botu paylaşma sebebim discordun son dönemde sıkıcı bir ortama dönmesi gibi bir çok nedenden kaynaklı.
-Bu Bottan Sonra Moderasyon , Stat , Guard ve Coin Sistemli birçok altyapımı herkese açık olarak palyaşacagım..
+* Serendia da help chattinde çok isteniyordu diye yaptım qwe
 
-Biliyorumki Bu botla beraber diğer botlarımı paylaştıgımda Herkes Botcu olucak bunun farkındayım.. 
+* `Settings/config.json` doldurmanız yeterlidir.
 
-Neyse Botun İçeriği;
+* Brita#1337 (830872038004359240) Her hangi bir sorunda Discord hesabıma ulaşabilirsiniz, eğer ulaşamazsanız discord.gg/serendia'da sorun yol gösterirlerrr
 
-* Ses Log (Basit)
-* Ses Mic Log (Basit)
-* Rol Log (Basit)
-* Giriş Çıkış (Basit)
-------------------
-* Streamer Log 
-* Nickname Log
-* Discord Username Log
-* Mesaj edit Delete Log
-* Avatar Log 
-* Kullanıcı UserName Etiket Log (Discriminator) 
----------------
-* Rol Log (Gelişmiş)
-* Ses Log (Gelişmiş)
-* Ses Mic Log (Gelişmiş)
-* Giriş Çıkış Log (Gelişmiş)
 
-//ve içeride bir süpriz daha var ;) 
 
-Altyapıyı Çok Yakında Paylaşacagım..
-Şimdilik Kendinize İyi Bakım 
-
-#ENAYİLERE PRİM YOK..
+![standard_11](https://user-images.githubusercontent.com/82638394/115013985-6e813800-9eba-11eb-932c-116b56c1c624.gif)

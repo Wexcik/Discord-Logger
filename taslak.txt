@@ -1,0 +1,9 @@
+const Discord = require('discord.js');
+const config = require('../Settings/config.json')
+module.exports = {
+    name: '',
+    aliases: [''],
+    run: async(client, message, args) => {
+  
+
+}}
