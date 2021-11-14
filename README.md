@@ -1,11 +1,12 @@
-# Brita V12 Boş Altyapı
+# Discord Sunucularında Kullandıgım Log Botum İçerisinde bütün Loglar Detaylı bir şekilde bulunmakta.
 
-* Serendia da help chattinde çok isteniyordu diye yaptım qwe
+* Star'layarak destekte bulunabilirsiniz..
 
-* `Settings/config.json` doldurmanız yeterlidir.
+* Herşey Config Dosyasından işlemektedir Settings/Config Dosyasını kurdugunuzda herşey tamam olacaktır..
+* 
+* ✧ Wex#1000 (728161454288535604) Her hangi bir sorunda Discord hesabıma ulaşabilirsiniz.
 
-* Brita#1337 (830872038004359240) Her hangi bir sorunda Discord hesabıma ulaşabilirsiniz, eğer ulaşamazsanız discord.gg/serendia'da sorun yol gösterirlerrr
+Altyapının Boş Hali Serendia'dan alınmıştır.
+İçindeki Logları Yazmam için boş altyapı gerekiyordu... 
 
 
-
-![standard_11](https://user-images.githubusercontent.com/82638394/115013985-6e813800-9eba-11eb-932c-116b56c1c624.gif)
