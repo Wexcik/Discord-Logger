@@ -1,6 +1,6 @@
 @echo off
 cls
-title Brita v12 Bos Altyapi
+title Log'es
 :a
-node brita.js
+node wextheking.js
 goto a
